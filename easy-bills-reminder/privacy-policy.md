@@ -4,13 +4,13 @@ Appstorehouse built the Easy Bills Reminder app as a Free app. This SERVICE is p
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information (email address only) if anyone decided to use our Service.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information (email address only) that we collect is used for providing and improving the Service. We will not use or share your information with anyone except.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information (email address only) that we collect is used for providing and improving the Service. We will not use or share your information with anyone.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Easy Bills Reminder unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we require you to provide us with your email address only. The email address will be retained by us and used as described in this privacy policy.
+For a better experience, while using our Service, we may require you to provide us with your email address only. The email address will be retained by us and used as described in this privacy policy.
 
 The app does use third-party services that may collect information used to identify you.
 
